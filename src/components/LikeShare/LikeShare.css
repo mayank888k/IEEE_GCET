@@ -1,0 +1,18 @@
+.btnn{
+    background-color: rgb(247, 245, 245);
+    border: none;
+    padding: 5px;
+    color: grey;
+    justify-content: center;
+    align-items: center;
+    margin-right: 10px;
+    text-decoration: none;
+    outline: none;
+    border-radius: 12px;
+}
+
+.btnn:hover{
+    border: 1px solid rgb(87, 84, 84);
+    color: rgb(87, 84, 84);
+    cursor: pointer;
+}

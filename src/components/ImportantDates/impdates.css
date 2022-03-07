@@ -1,0 +1,28 @@
+.ipdt{
+    margin: 20px;
+    box-shadow: 0px 5px 20px -16px rgba(0, 0, 0, 0.75);
+    padding: 60px;
+    margin-left: 50px !important;
+    margin-right: 50px;
+    width: inherit;
+}
+
+.row1{
+    background-color: rgb(240 240 240);
+}
+.row2{
+    background-color: rgb(142 209 252);
+}
+
+.data{
+    padding: 20px;
+    width: 100vh;
+
+}
+
+.heading p{
+    font-weight: bold;
+    font-size: large;
+    color: brown;
+    text-align: center;
+}

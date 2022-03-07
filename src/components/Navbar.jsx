@@ -24,12 +24,11 @@ const NavbarComponent = () => {
                 </NavDropdown.Item>
               </NavDropdown>
 
-              <Nav.Link style={{marginLeft:"10px"}} href="#link1">Impotant Dates</Nav.Link>
-              <Nav.Link style={{marginLeft:"10px"}} href="#link2">Submission Guidelines</Nav.Link>
+              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="/dates">Impotant Dates</NavLink>
+              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="/guidelines">Submission Guidelines</NavLink>
               
 
               <NavDropdown style={{marginLeft:"10px"}} title="Committee" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">Action</NavDropdown.Item>
                 <NavDropdown.Item href="#action/3.2">
                   Organising Committee
                 </NavDropdown.Item>

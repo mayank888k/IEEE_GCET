@@ -4,12 +4,19 @@ import EmailIcon from "@mui/icons-material/Email";
 import { Facebook, Phone, Twitter } from "@mui/icons-material";
 import { TwitterTimelineEmbed} from 'react-twitter-embed';
 import Home from './Home';
+import ImportantDates from "./ImportantDates/ImportantDates";
+import SubmissionGuid from "./SubmissionGuideline/SubmissionGuid";
+import { Route, Routes } from "react-router";
 
 const Body = () => {
   return (
     <div className="body">
       <div className="left_section">
-        <Home />
+      <Routes>
+        <Route path ="/" element={<Home />} />
+        <Route path ="/dates" element={<ImportantDates />} />
+        <Route path ="/guidelines" element={<SubmissionGuid />} />
+      </Routes>
       </div>
       
       

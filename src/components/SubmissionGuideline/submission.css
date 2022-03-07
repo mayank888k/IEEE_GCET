@@ -1,0 +1,47 @@
+.sub{
+    margin: 20px;
+    box-shadow: 0px 5px 20px -16px rgba(0, 0, 0, 0.75);
+    padding: 60px;
+    margin-left: 50px !important;
+    margin-right: 50px;
+    width: inherit;
+}
+
+.heading p{
+    font-weight: bold;
+    font-size: large;
+    color: brown ;
+    text-align: center;
+}
+
+.matter p{
+    line-height: 2;
+    color: rgb(87, 86, 86);
+    font-weight: 500;
+    font-size: 17px;
+}
+
+.has-text-align-justify{
+    text-align: justify;
+}
+
+.btn_upper{
+    margin: 35px 0px;
+}
+
+.anchor{
+    color: white;
+    background-color: rgb(15, 80, 77);
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+    outline: none;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.anchor:hover{
+    color: white;
+}
