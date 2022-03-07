@@ -1,0 +1,35 @@
+.header{
+    margin: 50px;
+}
+.logo{
+    margin: 10px;
+}
+.title{
+    padding: 5px;   
+}
+
+.title a{
+    text-decoration: none;
+    color: black;
+}
+
+.title a:hover{
+    
+    color: rgb(9, 161, 111);
+}
+
+.title h1{
+    margin-left: 10px;
+    font-size: 24px;
+}
+
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+}
+
+.date p{
+    color: grey;
+    padding: 10px;
+}

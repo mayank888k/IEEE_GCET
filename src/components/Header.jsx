@@ -1,0 +1,38 @@
+import React from "react";
+import { NavLink } from "react-router-dom";
+import "./header.css";
+import logo from "./images/logo.png"
+import NavbarComponent from "./Navbar";
+
+const Header = () => {
+  return (
+    <div className="header">
+
+    <div className="head">
+      <div className="logo">
+        <NavLink exact to="/">
+          <img src={logo} alt="" />
+        </NavLink>
+      </div>
+      <div className="title">
+        <NavLink exact to="/">
+          <h1>
+            3rd IEEE International Conference on Advances in Computing, Communication Control and Networking (ICAC3N–21)
+          </h1>
+          </NavLink>
+      </div>
+    </div>
+
+    <div className="date">
+        <p>
+            17th - 18th December, 2021
+        </p>
+    </div>
+
+    <NavbarComponent />
+
+    </div>
+  );
+};
+
+export default Header;

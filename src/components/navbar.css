@@ -1,0 +1,41 @@
+.navbar{
+    width: 100%;
+    /* border: 2px solid black; */
+    border-radius: 30px;
+    margin: 10px;
+    box-shadow: 0px 5px 20px -16px rgba(0, 0, 0, 0.75);
+
+    
+}
+
+.nav_coll{
+    margin-left: 50px;
+}
+
+
+.navbar-light .navbar-nav .nav-link {
+    color: black ;
+}
+
+.navbar-light .navbar-nav .nav-link:hover {
+    
+    color: rgb(50, 197, 148) !important;
+    border-bottom: 3px solid rgb(50, 197, 148);
+
+}
+
+.navbar-light .navbar-brand{
+    color: grey !important;
+    font-weight: 500;
+    
+}
+
+.navbar-light .navbar-brand:hover{
+    color: rgb(50, 197, 148) !important;
+    font-weight: bold;
+}
+
+.navbar-light .navbar-nav .nav-link.active{
+    color: rgb(50, 197, 148) ;
+    border-bottom: 3px solid rgb(50, 197, 148);
+}
