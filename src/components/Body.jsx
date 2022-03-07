@@ -7,13 +7,13 @@ import Home from './Home';
 import ImportantDates from "./ImportantDates/ImportantDates";
 import SubmissionGuid from "./SubmissionGuideline/SubmissionGuid";
 import { Route, Routes } from "react-router";
-import AboutGEI from "./aboutSection/AboutGEI";
-import AboutGCET from "./aboutSection/AboutGCET";
-import AboutCSE from "./aboutSection/AboutCSE";
-import OrganisingCommittee from "./committeeSection/OrganisingCommittee";
-import AdvisoryBoard from "./committeeSection/AdvisoryBoard";
-import TechProgCommittee from "./committeeSection/TechprogCommittee";
-import Speakers from "./speakerSection/Speaker";
+import AboutGEI from "./aboutSection/aboutGEI";
+import AboutGCET from "./aboutSection/aboutGCET";
+import AboutCSE from "./aboutSection/aboutCSE";
+import OrganisingCommittee from "./committeeSection/organisingCommittee";
+import AdvisoryBoard from "./committeeSection/advisoryBoard";
+import TechProgCommittee from "./committeeSection/techprogCommittee";
+import Speakers from "./speakerSection/speaker";
 
 const Body = () => {
   return (
