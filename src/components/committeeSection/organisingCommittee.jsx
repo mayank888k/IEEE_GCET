@@ -1,9 +1,13 @@
 import React from "react";
+import LikeShare from "../LikeShare/LikeShare";
 import "./committee.css"
 
 const OrganisingCommittee = () => {
   return (
     <div className="committee">
+    <div className="heading">
+        <p>Organising Committee</p>
+      </div>
         <div className="matter">
 
             <h1> <strong> Chief Patron </strong> </h1>
@@ -52,7 +56,8 @@ const OrganisingCommittee = () => {
 
             <h1> <strong> Publication Committee </strong> </h1>
             <p>Prof. (Dr.) Shelja Sharma, CSE, GCET</p>
-            <p>Prof. Abhishek Tiwari, CSE, GCET</p>
+            <p>Prof. Mayank Tiwari, CSE, GCET</p>
+            <p>Prof. Harshit Tiwari, CSE, GCET</p>
 
             <br/>
 
@@ -99,6 +104,8 @@ const OrganisingCommittee = () => {
             <p>Prof. Nandini Tomar, CSE (AI), GCET</p>
 
         </div>
+
+        <LikeShare />
     </div>
   );
 };

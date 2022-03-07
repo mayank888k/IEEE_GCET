@@ -7,6 +7,13 @@ import Home from './Home';
 import ImportantDates from "./ImportantDates/ImportantDates";
 import SubmissionGuid from "./SubmissionGuideline/SubmissionGuid";
 import { Route, Routes } from "react-router";
+import AboutGEI from "./aboutSection/AboutGEI";
+import AboutGCET from "./aboutSection/AboutGCET";
+import AboutCSE from "./aboutSection/AboutCSE";
+import OrganisingCommittee from "./committeeSection/OrganisingCommittee";
+import AdvisoryBoard from "./committeeSection/AdvisoryBoard";
+import TechProgCommittee from "./committeeSection/TechprogCommittee";
+import Speakers from "./speakerSection/Speaker";
 
 const Body = () => {
   return (
@@ -16,6 +23,18 @@ const Body = () => {
         <Route path ="/" element={<Home />} />
         <Route path ="/dates" element={<ImportantDates />} />
         <Route path ="/guidelines" element={<SubmissionGuid />} />
+        
+        <Route path ="/aboutCSE" element={<AboutCSE />} />
+        <Route path ="/aboutGCET" element={<AboutGCET />} />
+        <Route path ="/aboutGEI" element={<AboutGEI />} />
+        
+        <Route path ="/organisingCommittee" element={<OrganisingCommittee />} />
+        <Route path ="/advisoryBoard" element={<AdvisoryBoard />} />
+        <Route path ="/technicalCommittee" element={<TechProgCommittee />} />
+
+        <Route path ="/speakers" element={<Speakers />} />
+
+
       </Routes>
       </div>
       

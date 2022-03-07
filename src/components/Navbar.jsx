@@ -15,11 +15,11 @@ const NavbarComponent = () => {
 
               
               <NavDropdown style={{marginLeft:"10px"}} title="About Us" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#action/3.1">About Galgotias Educational Institituion (GEI)</NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.2">
+                <NavDropdown.Item href="aboutGEI">About Galgotias Educational Institituion (GEI)</NavDropdown.Item>
+                <NavDropdown.Item href="aboutGCET">
                   About GCET
                 </NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">
+                <NavDropdown.Item href="aboutCSE">
                   About CSE Department
                 </NavDropdown.Item>
               </NavDropdown>
@@ -29,19 +29,19 @@ const NavbarComponent = () => {
               
 
               <NavDropdown style={{marginLeft:"10px"}} title="Committee" id="basic-nav-dropdown">
-                <NavDropdown.Item href="#action/3.2">
+                <NavDropdown.Item href="organisingCommittee">
                   Organising Committee
                 </NavDropdown.Item>
-                <NavDropdown.Item href="#action/3.3">
+                <NavDropdown.Item href="technicalCommittee">
                   Technical Program Committee
                 </NavDropdown.Item>
                 <NavDropdown.Divider />
-                <NavDropdown.Item href="#action/3.4">
+                <NavDropdown.Item href="advisoryBoard">
                   Advisory Board
                 </NavDropdown.Item>
               </NavDropdown>
 
-              <Nav.Link style={{marginLeft:"10px"}} href="#link3">Speakers</Nav.Link>
+              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="speakers">Speakers</NavLink>
               <Nav.Link style={{marginLeft:"10px"}} href="#link4">Call for Papers</Nav.Link>
 
               <Nav.Link style={{marginLeft:"10px"}} href="#link5">Register</Nav.Link>

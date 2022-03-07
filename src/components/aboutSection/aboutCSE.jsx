@@ -1,9 +1,13 @@
 import React from "react";
+import LikeShare from "../LikeShare/LikeShare";
 import "./about.css"
 
 const AboutCSE = () => {
   return (
     <div className="about">
+    <div className="heading">
+        <p>ABOUT CSE</p>
+      </div>
         <div className="matter">
             
             <p>
@@ -52,6 +56,7 @@ const AboutCSE = () => {
             </p>
 
         </div>
+        <LikeShare />
     </div>
   );
 };

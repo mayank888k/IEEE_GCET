@@ -1,9 +1,13 @@
 import React from "react";
+import LikeShare from "../LikeShare/LikeShare";
 import "./committee.css"
 
 const AdvisoryBoard = () => {
   return (
     <div className="committee">
+    <div className="heading">
+        <p>Advisory Board</p>
+      </div>
         <div className="matter">
         
             <p>Prof. S. C. Srivastava, IIT Kanpur</p>
@@ -59,6 +63,8 @@ const AdvisoryBoard = () => {
             <p>Prof. Sanjoy Das, IGNTU, Manipur</p>
 
         </div>
+
+        <LikeShare />
     </div>
   );
 };

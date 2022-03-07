@@ -2,10 +2,14 @@ import React from "react";
 import "./about.css"
 import Gallery from "../Gallery";
 import courseimg from './aboutImages/courseimg.jpg'
+import LikeShare from "../LikeShare/LikeShare";
 
 const AboutGEI = () => {
   return (
     <div className="about">
+    <div className="heading">
+        <p>ABOUT Galgotias Educational Institutions (GEI)</p>
+      </div>
 
       <div className="matter">
         <p>
@@ -46,6 +50,8 @@ const AboutGEI = () => {
       <div className="gallery">
         <Gallery />
       </div> 
+
+      <LikeShare />
 
     </div>
   );

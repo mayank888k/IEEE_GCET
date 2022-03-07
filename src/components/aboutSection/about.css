@@ -5,12 +5,15 @@
     margin-left: 50px !important;
     margin-right: 50px;
     width: inherit;
+    /* text-align: justify; */
 }
 
 .heading p{
     font-weight: bold;
     font-size: large;
-    color: brown;
+    color: brown ;
+    text-align: center;
+    text-transform: uppercase;
 }
 
 .matter p{
@@ -21,4 +24,9 @@
 }
 .gallery{
     width: inherit;
+}
+
+.lg img{
+    margin-left: auto;
+    margin-right: auto;
 }
