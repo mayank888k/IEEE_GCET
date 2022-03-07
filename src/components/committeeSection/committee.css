@@ -1,0 +1,21 @@
+.committee{
+    margin: 20px;
+    box-shadow: 0px 5px 20px -16px rgba(0, 0, 0, 0.75);
+    padding: 50px;
+    margin-left: 50px !important;
+    margin-right: 50px;
+    width: inherit;
+}
+
+.matter h1{
+    font-size: 25px;
+}
+
+.matter p{
+    line-height: 2;
+    color: #828C9E;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
