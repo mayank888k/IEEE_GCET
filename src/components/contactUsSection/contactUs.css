@@ -1,0 +1,77 @@
+.contactus{
+    margin: 20px;
+    box-shadow: 0px 5px 20px -16px rgba(0, 0, 0, 0.75);
+    padding: 50px;
+    margin-left: 50px !important;
+    margin-right: 50px;
+    width: inherit;
+    text-align: justify;
+}
+
+.matter p{
+    line-height: 2;
+    color: #828C9E;
+    font-size: 15px;
+    margin-bottom: 0;
+    margin-left: 20px;
+}
+
+.heading p{
+    font-weight: bold;
+    font-size: large;
+    color: brown ;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+.form-container, .get-in-touch{
+    padding-left: 60px;
+    color:#828C9E;
+}
+
+form{
+    display: block;
+    width: 75%;
+}
+
+label{
+    color: #828C9E;
+    font-weight: lighter;
+    font-size:medium;
+}
+
+form input,textarea{
+    width: 50%;
+    min-width: 250px;
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 14px 7px;
+}
+
+form textarea{
+    height: 200px;
+    width: 100% !important;
+    min-width: 300px !important;
+}
+
+form button{
+    margin-top: 10px;
+    width: 100px;
+    padding: 5px;
+    background-color: brown;
+    border: none;
+    color: white;
+}
+
+form button:hover{
+    color: White;
+    background-color: black;
+}
+
+
+.get-in-touch h1{
+    margin-top: 20px;
+    font-size: 20px;
+    color: brown;
+}
