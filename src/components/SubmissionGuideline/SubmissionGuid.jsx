@@ -7,7 +7,6 @@ const SubmissionGuid = () => {
     <div className="sub">
       <div className="heading">
         <p>SUBMISSION GUIDELINES</p>
-        <br />
       </div>
 
       <div className="matter">

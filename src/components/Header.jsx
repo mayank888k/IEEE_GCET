@@ -17,7 +17,7 @@ const Header = () => {
       <div className="title">
         <NavLink exact to="/">
           <h1>
-            3rd IEEE International Conference on Advances in Computing, Communication Control and Networking (ICAC3N–21)
+            4th IEEE International Conference on Advances in Computing, Communication Control and Networking (ICAC3N–22)
           </h1>
           </NavLink>
       </div>
@@ -25,7 +25,7 @@ const Header = () => {
 
     <div className="date">
         <p>
-            17th - 18th December, 2021
+            17th - 18th December, 2022
         </p>
     </div>
 

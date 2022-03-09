@@ -1,0 +1,79 @@
+.registration{
+    margin: 20px;
+    box-shadow: 0px 5px 20px -16px rgba(0, 0, 0, 0.75);
+    padding: 60px;
+    margin-left: 50px !important;
+    margin-right: 50px;
+    width: inherit;
+}
+
+.reg_img img{
+    width: 100%;
+}
+
+.registration h1{
+    margin-bottom: 25px;
+    font-weight: bolder;
+}
+
+.registration .btn_upper{
+    margin: 55px 1em;
+    width: max-content;
+}
+
+.anchor{
+    color: white;
+    background-color: rgb(15, 80, 77);
+    cursor: pointer;
+    border-radius: 20px;
+    padding: 10px;
+    text-decoration: none;
+    outline: none;
+    font-weight: bold;
+    text-align: center;
+    text-transform: uppercase;
+    width: 100%;
+}
+
+.anchor:hover{
+    color: white;
+}
+
+.registration .row{
+    display: block;
+    border-bottom: 0px;
+    padding: 0;
+}
+
+.note {
+    border: 0px !important;
+}
+
+.l{
+    border-color: grey !important;
+    
+}
+
+.registration .data{
+    padding: 20px;
+    width: 30vh;
+    border: 1px solid rgb(223, 223, 223);
+    padding-left: 20px;
+    color: rgb(105, 105, 105);
+    font-weight: bold;
+}
+
+.registration .data2{
+    padding: 20px;
+    width: 70vh;
+    border: 1px solid rgb(223, 223, 223);
+    padding-left: 20px;
+    color: rgb(105, 105, 105);
+    font-weight: bold;
+}
+
+.registration p{
+    color: rgb(105, 105, 105);
+    font-weight: bold;
+    
+}

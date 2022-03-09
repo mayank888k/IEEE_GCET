@@ -5,6 +5,7 @@
     margin-left: 50px !important;
     margin-right: 50px;
     width: inherit;
+    text-align: justify;
 }
 
 .heading p{
@@ -27,6 +28,8 @@
 
 .btn_upper{
     margin: 35px 0px;
+    width: max-content;
+    margin-left: 1em !important;
 }
 
 .anchor{

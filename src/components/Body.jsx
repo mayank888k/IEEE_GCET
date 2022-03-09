@@ -14,6 +14,9 @@ import OrganisingCommittee from "./committeeSection/organisingCommittee";
 import AdvisoryBoard from "./committeeSection/advisoryBoard";
 import TechProgCommittee from "./committeeSection/techprogCommittee";
 import Speakers from "./speakerSection/speaker";
+import Registration from "./Registration/Registration";
+import CallOfPaper from "./callOfPaperSection/callOfPaper";
+import ContactUs from "./contactUsSection/contactUs";
 
 const Body = () => {
   return (
@@ -33,8 +36,11 @@ const Body = () => {
         <Route path ="/technicalCommittee" element={<TechProgCommittee />} />
 
         <Route path ="/speakers" element={<Speakers />} />
+        <Route path ="/callforpapers" element={<CallOfPaper />} />
 
+        <Route path ="/registration" element={<Registration />} />
 
+        <Route path ="/contactus" element={<ContactUs />} />
       </Routes>
       </div>
       

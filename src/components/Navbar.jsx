@@ -8,7 +8,7 @@ const NavbarComponent = () => {
   return (
       <Navbar className="navbar" bg="white" expand="lg">
         <Container>
-          <Navbar.Brand href="/">ICAC3N-21</Navbar.Brand>
+          <Navbar.Brand href="/">ICAC3N-22</Navbar.Brand>
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse className="nav_coll" id="basic-navbar-nav">
             <Nav className="me-auto">
@@ -42,10 +42,10 @@ const NavbarComponent = () => {
               </NavDropdown>
 
               <NavLink style={{marginLeft:"10px"}} className="nav-link" to="speakers">Speakers</NavLink>
-              <Nav.Link style={{marginLeft:"10px"}} href="#link4">Call for Papers</Nav.Link>
+              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="callforpapers">Call for Papers</NavLink>
 
-              <Nav.Link style={{marginLeft:"10px"}} href="#link5">Register</Nav.Link>
-              <Nav.Link style={{marginLeft:"10px"}} href="#link6">Contact Us</Nav.Link>
+              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="registration">Register</NavLink>
+              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="contactus">Contact Us</NavLink>
 
             </Nav>
           </Navbar.Collapse>

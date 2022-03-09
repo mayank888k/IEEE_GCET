@@ -6,6 +6,8 @@
     margin-left: 50px !important;
     margin-right: 50px;
     width: inherit;
+    text-align: justify;
+
 }
 
 .heading p{
@@ -22,5 +24,6 @@
 }
 .gallery{
     width: inherit;
+    margin-left: 17px;
 }
 

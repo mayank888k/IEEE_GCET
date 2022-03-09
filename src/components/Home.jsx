@@ -70,6 +70,7 @@ const Home = () => {
       </div>
 
       <div className="heading">
+        <br />
         <p>ABOUT THE DEPARTMENT OF CSE</p>
       </div>
 
@@ -117,7 +118,8 @@ const Home = () => {
       </div>
 
       <div className="heading">
-        <p style={{ color: "black" }}>Conference Venue</p>
+        <br />
+        <p style={{ color: "#0066bf" }}>Conference Venue</p>
       </div>
 
       <div className="matter">
