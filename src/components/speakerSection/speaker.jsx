@@ -14,6 +14,7 @@ import img11 from './speakerImgs/prof.-dr.-n.-badal-hod-cse-department-knit-sult
 
 
 const Speakers = () => {
+    document.title = "Speakers | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="speaker">
         <div className="matter">

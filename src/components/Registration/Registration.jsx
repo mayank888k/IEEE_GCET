@@ -4,6 +4,7 @@ import "./registration.css";
 import registration_fee from "./registration_fee.webp";
 
 const Registration = () => {
+  document.title = "Registration | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="registration">
       <div className="topsection">

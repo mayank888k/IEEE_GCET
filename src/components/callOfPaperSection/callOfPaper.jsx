@@ -3,6 +3,7 @@ import LikeShare from "../LikeShare/LikeShare";
 import "./callOfPaper.css"
 
 const CallOfPaper = () => {
+  document.title = "Call for Paper | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="callofpaper">
       <div className="heading">
