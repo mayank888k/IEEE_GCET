@@ -5,6 +5,7 @@ import courseimg from './aboutImages/courseimg.jpg'
 import LikeShare from "../LikeShare/LikeShare";
 
 const AboutGEI = () => {
+  document.title = "About GEI | ICAC3N - IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="about">
     <div className="heading">

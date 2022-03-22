@@ -5,6 +5,7 @@ import gcetlogo from './aboutImages/gcet-logoi.jpg'
 import gcetimg from './aboutImages/gcetimage3.jpg'
 
 const AboutGCET = () => {
+  document.title = "About GCET | ICAC3N - IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="about">
         <div style={{textAlign:"center"}} className="lg">

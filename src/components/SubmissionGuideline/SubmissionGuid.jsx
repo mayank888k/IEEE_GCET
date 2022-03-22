@@ -3,6 +3,7 @@ import LikeShare from "../LikeShare/LikeShare";
 import "./submission.css";
 
 const SubmissionGuid = () => {
+  document.title = "Submission Guidelines | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="sub">
       <div className="heading">
