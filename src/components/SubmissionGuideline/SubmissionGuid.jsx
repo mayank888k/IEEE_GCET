@@ -107,7 +107,7 @@ const SubmissionGuid = () => {
         </div>
 
         <p class="has-text-align-justify">
-          ICAC3N-21 takes plagiarism very seriously and regard plagiarism as a
+          ICAC3N-22 takes plagiarism very seriously and regard plagiarism as a
           professional misconduct. Papers will be screened for plagiarism and
           when identified the paper will be rejected.
         </p>
