@@ -18,7 +18,10 @@ const Header = () => {
       <div className="title">
         <NavLink exact to="/">
           <h1>
-            4th IEEE International Conference on Advances in Computing, Communication Control and Networking (ICAC3N–22)
+            4th IEEE International Conference on Advances in Computing, Communication Control and Networking
+          </h1>
+          <h1>
+            (ICAC3N–22)
             <img style={{marginBottom:"20px"}} src={newgif} alt="" />
           </h1>
           </NavLink>
