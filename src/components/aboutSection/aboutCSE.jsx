@@ -3,6 +3,7 @@ import LikeShare from "../LikeShare/LikeShare";
 import "./about.css"
 
 const AboutCSE = () => {
+    document.title = "About CSE | ICAC3N - IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="about">
     <div className="heading">

@@ -3,6 +3,7 @@ import LikeShare from "../LikeShare/LikeShare";
 import "./contactUs.css"
 
 const ContactUs = () => {
+  document.title = "Contact US | ICAC3N IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="contactus">
       <div className="heading">

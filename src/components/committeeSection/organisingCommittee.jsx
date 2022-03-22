@@ -3,6 +3,7 @@ import LikeShare from "../LikeShare/LikeShare";
 import "./committee.css"
 
 const OrganisingCommittee = () => {
+  document.title = "Organising Committee | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="committee">
     <div className="heading">
@@ -56,8 +57,6 @@ const OrganisingCommittee = () => {
 
             <h1> <strong> Publication Committee </strong> </h1>
             <p>Prof. (Dr.) Shelja Sharma, CSE, GCET</p>
-            <p>Prof. Mayank Tiwari, CSE, GCET</p>
-            <p>Prof. Harshit Tiwari, CSE, GCET</p>
 
             <br/>
 
@@ -92,8 +91,9 @@ const OrganisingCommittee = () => {
             
             <h1> <strong> Website Committee </strong> </h1>
             <p>Prof. Ajeet Kumar Bhartee, CSE, GCET</p>
-            <p>Prof. (Dr.) T. Saravanan, CSE, GCET</p>
-            <p>Prof. Pragya Agarwal, CSE (AI), GCET</p>
+            <p>Mr. Ayan Gupta, CSE Student, GCET</p>
+            <p>Mr. Harshit Garg, CSE Student, GCET</p>
+            <p>Mr. Mayank, CSE Student, GCET</p>
 
             <br/>
 

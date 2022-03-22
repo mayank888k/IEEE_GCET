@@ -4,6 +4,7 @@ import "./impdates.css";
 import LikeShare from "../LikeShare/LikeShare";
 
 const ImportantDates = () => {
+  document.title = "Important Dates | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="ipdt">
     <div className="heading">
