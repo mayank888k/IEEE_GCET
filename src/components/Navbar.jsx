@@ -13,7 +13,7 @@ const NavbarComponent = () => {
           
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse className="nav_coll" id="basic-navbar-nav">
-            <Nav className="me-auto">
+            <Nav>
               <NavDropdown style={{marginLeft:"-10px",fontWeight:"bolder"}} title="ICAC3N-22" id="basic-nav-dropdown">
                 <NavDropdown.Item href="ICAC3N21">ICAC3N-21</NavDropdown.Item>
                 <NavDropdown.Item href="ICAC3N20">
