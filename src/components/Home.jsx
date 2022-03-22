@@ -136,9 +136,11 @@ const Home = () => {
 
       <div className="matter">
         <p>
-          Email : <a href="mailto:icac3n.21@gmail.com">icac3n.21@gmail.com</a>
+          Email : <a href="mailto:support@icac3n.in">support@icac3n.in</a>
           <br />
-          Contact No - +91-7065181997
+          Email : <a href="mailto:icac3n22@gmail.com">icac3n22@gmail.com</a>
+          <br />
+          Contact No - +91-7835878146
         </p>
       </div>
 
