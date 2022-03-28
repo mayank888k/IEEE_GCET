@@ -137,14 +137,18 @@ const Home = () => {
 
       <div className="matter">
         <p>
-          Email : <a href="mailto:support@icac3n.in">support@icac3n.in</a><span>&nbsp;&nbsp;</span>
-          <a href="mailto:icac3n22@gmail.com">icac3n22@gmail.com</a><span>&nbsp;&nbsp;</span>
+          Email : 
+          <br />
+          <a href="mailto:support@icac3n.in">support@icac3n.in</a><br />
+          <a href="mailto:icac3n22@gmail.com">icac3n22@gmail.com</a>
           
           <br />
           Contact No - +91-7835878146
           <br />
-          Email : <a href="mailto:hodcs@galgotiacollege.edu">hodcs@galgotiacollege.edu</a><span>&nbsp;&nbsp;</span>
-          <a href="mailto:vishnu.sharma@galgotiacollege.edu">vishnu.sharma@galgotiacollege.edu</a>
+          Email : <br />
+          <a href="mailto:hodcs@galgotiacollege.edu">hodcs@galgotiacollege.edu</a><br />
+          <a href="mailto:vishnu.sharma@galgotiacollege.edu">vishnu.sharma@galgotiacollege.edu</a><br />
+          <a href="mailto:vishnusharma97@gmail.com">vishnusharma97@gmail.com</a>
         </p>
       </div>
 
