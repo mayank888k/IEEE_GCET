@@ -17,6 +17,9 @@ import Speakers from "./speakerSection/speaker";
 import Registration from "./Registration/Registration";
 import CallOfPaper from "./callOfPaperSection/callOfPaper";
 import ContactUs from "./contactUsSection/contactUs";
+import Icac3n21 from "./PreviousConferences/Icac3n21.jsx";
+import Icac3n20 from "./PreviousConferences/Icac3n20";
+import Icac3n18 from "./PreviousConferences/Icac3n18";
 
 const Body = () => {
   return (
@@ -41,6 +44,10 @@ const Body = () => {
         <Route path ="/registration" element={<Registration />} />
 
         <Route path ="/contactus" element={<ContactUs />} />
+
+        <Route path ="/ICAC3N21" element={<Icac3n21 />} />
+        <Route path ="/ICAC3N20" element={<Icac3n20 />} />
+        <Route path ="/ICAC3N18" element={<Icac3n18 />} />
       </Routes>
       </div>
       
@@ -52,7 +59,7 @@ const Body = () => {
             <hr />
           </div>
           <div className="icon">
-            <a href="mailto:icac3n.21@gmail.com" className="linkDetails">
+            <a href="mailto:vishnu.sharma@galgotiacollege.edu" className="linkDetails">
               <EmailIcon className="iconDetails" />
             </a>
             <a
@@ -61,7 +68,7 @@ const Body = () => {
             >
               <Facebook className="iconDetails" />
             </a>
-            <a href="tel:tel:+91-7065181997" className="linkDetails">
+            <a href="tel:tel:+91-7835878146" className="linkDetails">
               <Phone className="iconDetails" />
             </a>
             <a href="https://twitter.com/icac3n" className="linkDetails">
@@ -72,7 +79,7 @@ const Body = () => {
 
         <div className="fb_frame">
           <div className="follow">
-            <h3>Facebook Feed: #3rd_IEEE_ICAC3N</h3>
+            <h3>Facebook Feed: #4th_IEEE_ICAC3N</h3>
             <hr />
           </div>
 
@@ -90,7 +97,7 @@ const Body = () => {
 
         <div className="twitt_frame">
           <div className="follow">
-            <h3>Twitter Feeds #3rd_IEEE_ICAC3N</h3>
+            <h3>Twitter Feeds #4th_IEEE_ICAC3N</h3>
             <hr />
           </div>
           <TwitterTimelineEmbed
