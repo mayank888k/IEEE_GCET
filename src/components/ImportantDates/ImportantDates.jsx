@@ -18,7 +18,7 @@ const ImportantDates = () => {
               <strong>Paper Submission Starts</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; To Be Announced</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 28/03/2022</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -26,7 +26,7 @@ const ImportantDates = () => {
               <strong>Paper Submission Deadline</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; To Be Announced</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 15/05/2022</strong>
             </td>
           </tr>
 
@@ -36,7 +36,7 @@ const ImportantDates = () => {
               <strong>Acceptance Notification</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; To Be Announced</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 15/06/2022</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -44,7 +44,7 @@ const ImportantDates = () => {
               <strong>Registration</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; To Be Announced</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 30/06/2022</strong>
             </td>
           </tr>
 
@@ -53,7 +53,7 @@ const ImportantDates = () => {
               <strong>Camera Ready Paper</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; To Be Announced</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 30/06/2022</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -61,7 +61,7 @@ const ImportantDates = () => {
               <strong>Conference Date:</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp;16th – 17th December, 2021 </strong>
+              <strong>:&nbsp;&nbsp;&nbsp;16th – 17th December, 2022 </strong>
             </td>
           </tr>
         </tbody>

@@ -32,11 +32,12 @@
 }
 
 .track-details{
-    margin-left: 15px;
+    margin-left: 15px; 
 }
 
-.track-details strong{
+.track-details ul li{
     color: #788191;
     margin-right: 7px;
+    font-weight: 550;
 }
 
