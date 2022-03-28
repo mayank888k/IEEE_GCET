@@ -20,23 +20,25 @@ const CallOfPaper = () => {
         
         <h1> <strong> Track Details: </strong> </h1>
         <div className="track-details">
-          <p> <strong> Track 01 </strong> Data Analytics, Data Science and Data Mining </p>
-          <p> <strong> Track 02 </strong> Machine Learning And Its Application </p>
-          <p> <strong> Track 03 </strong> Big Data Mining and Deep Learning </p>
-          <p> <strong> Track 04 </strong> Machine Learning & Deep Learning in Image Processing </p>
-          <p> <strong> Track 05 </strong> Artificial Intelligence with Internet of Things </p>
-          <p> <strong> Track 06 </strong> Internet of Things (IOT) with Robotics and Automation </p>
-          <p> <strong> Track 07 </strong> Artificial Intelligence with Natural Language Processing and Fuzzy Logic </p>
-          <p> <strong> Track 08 </strong> Artificial Neural Networks and Convolution Neural Networks </p>
-          <p> <strong> Track 09 </strong> Signals and Systems, VLSI Design, Antennas & Embedded Systems </p>
-          <p> <strong> Track 10 </strong> Computer Networks, Wireless Sensor Networks and Mobile Communication </p>
-          <p> <strong> Track 11 </strong> Network Security, Internet of Things (IoT) Security, Cloud Security and Cyber Security </p>
-          <p> <strong> Track 12 </strong> Parallel and Distributed Systems, Cloud Computing, Green Computing & Block Chain Technology </p>
-          <p> <strong> Track 13 </strong> Computer Systems, Software Engineering & Web Development </p>
-          <p> <strong> Track 14 </strong> Image / Video Processing & Data Compression </p>
-          <p> <strong> Track 15 </strong> Control Systems & Automation, IoT with Control Systems & Information Systems </p>
-          <p> <strong> Track 16 </strong> Machine Learning & Deep Learning with Cyber Security </p>
-          <p> <strong> Track 17 </strong> Researches and Innovations on COVID-19 </p>
+          <ul>
+            <li> Data Analytics, Data Science and Data Mining </li>
+            <li> Machine Learning And Its Application </li>
+            <li> Big Data Mining and Deep Learning </li>
+            <li> Machine Learning & Deep Learning in Image Processing </li>
+            <li> Artificial Intelligence with Internet of Things </li>
+            <li> Internet of Things (IOT) with Robotics and Automation </li>
+            <li> Artificial Intelligence with Natural Language Processing and Fuzzy Logic </li>
+            <li> Artificial Neural Networks and Convolution Neural Networks </li>
+            <li> Signals and Systems, VLSI Design, Antennas & Embedded Systems </li>
+            <li> Computer Networks, Wireless Sensor Networks and Mobile Communication </li>
+            <li> Network Security, Internet of Things (IoT) Security, Cloud Security and Cyber Security </li>
+            <li> Parallel and Distributed Systems, Cloud Computing, Green Computing & Block Chain Technology </li>
+            <li> Computer Systems, Software Engineering & Web Development </li>
+            <li> Image / Video Processing & Data Compression </li>
+            <li> Control Systems & Automation, IoT with Control Systems & Information Systems </li>
+            <li> Machine Learning & Deep Learning with Cyber Security </li>
+            <li> Researches and Innovations on COVID-19 </li>
+          </ul>
         </div>
       </div>
 

@@ -2,6 +2,7 @@ import React from "react";
 import { Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import './navbar.css'
+import newgif from "./images/new_red.gif"
 
 
 const NavbarComponent = () => {
@@ -14,8 +15,14 @@ const NavbarComponent = () => {
           <Navbar.Toggle aria-controls="basic-navbar-nav" />
           <Navbar.Collapse className="nav_coll" id="basic-navbar-nav">
             <Nav>
-              <NavDropdown style={{marginLeft:"-10px",fontWeight:"bolder"}} title="ICAC3N-22" id="basic-nav-dropdown">
-                  <NavDropdown.Item href="ICAC3N21">ICAC3N-21</NavDropdown.Item>
+              <NavDropdown style={{marginLeft:"-10px",fontWeight:"bolder"}} title="ICAC3N" id="basic-nav-dropdown">
+                  <NavDropdown.Item href="ICAC3N21">
+                    ICAC3N-22
+                    <img style={{marginBottom:"20px"}} src={newgif} alt="" />
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="ICAC3N21">
+                    ICAC3N-21
+                  </NavDropdown.Item>
                   <NavDropdown.Item href="ICAC3N20">
                     ICAC3N-20
                   </NavDropdown.Item>
