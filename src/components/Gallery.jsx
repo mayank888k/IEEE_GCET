@@ -1,5 +1,9 @@
 import React from 'react'
 import { ImageViewer } from "react-image-viewer-dv"
+import img6 from './images/img6.jpg'
+import img3 from './images/img3.png'
+import img4 from './images/img4.jpg'
+import img5 from './images/img5.jpg'
 import img7 from './images/img7.jpg'
 import img8 from './images/img8.png'
 import './gallery.css'
@@ -8,12 +12,12 @@ const Gallery = () => {
   return (
     <div className="imgViewer">
           <ImageViewer className="imgBox">
-            <img src={img7}  alt="Your image" />
             <img src={img8}  alt="Your image" />
             <img src={img7}  alt="Your image" />
-            <img src={img7}  alt="Your image" />
-            <img src={img8}  alt="Your image" />
-            <img src={img7}  alt="Your image" />
+            <img src={img3}  alt="Your image" />
+            <img src={img4}  alt="Your image" />
+            <img src={img5}  alt="Your image" />
+            <img src={img6}  alt="Your image" />
           </ImageViewer>
     </div>
   )

@@ -16,7 +16,7 @@ const NavbarComponent = () => {
           <Navbar.Collapse className="nav_coll" id="basic-navbar-nav">
             <Nav>
               <NavDropdown style={{marginLeft:"-10px",fontWeight:"bolder"}} title="ICAC3N" id="basic-nav-dropdown">
-                  <NavDropdown.Item href="ICAC3N21">
+                  <NavDropdown.Item href="/">
                     ICAC3N-22
                     <img style={{marginBottom:"20px"}} src={newgif} alt="" />
                   </NavDropdown.Item>
