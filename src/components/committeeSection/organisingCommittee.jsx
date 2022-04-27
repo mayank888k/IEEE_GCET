@@ -18,15 +18,16 @@ const OrganisingCommittee = () => {
             <br/>
 
             <h1> <strong> Patrons </strong> </h1>
-            <p>Dr. Vinay Kumar Pathak, VC, AKTU</p>
+            <p>Prof. (Dr.) Pradeep Kumar Mishra, VC, AKTU</p>
+            <p>Prof. (Dr.) S.N. Singh, IIT Kanpur</p>
             <p>Dr. Preeti Bajaj, VC, Galgotias University</p>
-            <p>Prof. (Dr.) S.N. Singh, Professor (HAG), EE, IIT Kanpur / Chairman, India Council, IEEE India</p>
 
             <br/>
 
             <h1> <strong> Conference General Chair </strong> </h1>
+            <p>Prof. (Dr.) Avadhesh Kumar –PVC, GU</p>
             <p>Prof. (Dr.) Brijesh Singh , Director, GCET</p>
-            <p>Prof. (Dr.) S. K. Singh, IIIT Allahabad / Section Chair, IEEE UP Section</p>
+            <p>Prof. (Dr.) S. K. Singh, IIIT, Allahabad</p>
 
             <br/>
 
@@ -36,56 +37,62 @@ const OrganisingCommittee = () => {
             <br/>
 
             <h1> <strong> Conference Chair </strong> </h1>
-            <p>Prof. (Dr.) Ritesh Srivastava, Dy. HOD, CSE, GCET</p>
+            <p>Prof. (Dr.) Vishnu Sharma, HOD, CSE, GCET</p>
+            <p>Prof. Manjeet Singh, GCBK, Sonipat</p>
 
             <br/>
 
             <h1> <strong> Technical Program Chairs </strong> </h1>
-            <p>Prof. (Dr.) S. K. Singh, HOD-IT, GCET</p>
-            <p>Prof. (Dr.) Gagan Tiwari, HOD-MCA, GCET</p>
-            <p>Prof. (Dr.) S. K. Singh, CSE, GCET</p>
-            <p>Prof. (Dr.) Jaya Sinha, CSE, GCET</p>
+            <p>Prof. (Dr) S. K. Singh, CSE, GCET</p>
+            <p>Prof. (Dr) Jaya Sinha, CSE, GCET</p>
+            <p>Prof. (Dr) S. K. Singh, HOT-IT, GCET</p>
+            <p>Prof. (Dr) Gagan Tiwari, HOD, MCA, GCET</p>
+            <p>Prof. (Dr) Ritesh Srivastava, CSE, GCET</p>
+            <p>Prof. (Dr) Vinit Kumar, CSE, GCET</p>
             
             <br/>
 
             <h1> <strong> Organizing Committee </strong> </h1>
             <p>Prof. M. Chandraprabha, CSE, GCET</p>
+            <p>Prof. Rishabh  Jain, CSE, GCET</p>
             <p>Prof. T. Akilan, CSE, GCET</p>
-            <p>Prof. (Dr) Sahil Kansal, CSE, GCET</p>
+            <p>Prof. Ravindra  Kumar, CSE, GCET</p>
 
             <br/>
 
             <h1> <strong> Publication Committee </strong> </h1>
-            <p>Prof. (Dr.) Shelja Sharma, CSE, GCET</p>
+            <p>Prof. (Dr) Inderpreet Kaur, CSE, GCET</p>
+            <p>Prof. (Dr) Shelja Sharma, CSE, GCET</p>
+            <p>Prof. (Dr) Kavita Sharma, CSE, GCET</p>
 
             <br/>
 
             <h1> <strong> Publicity Committee </strong> </h1>
-            <p>Prof. (Dr.) Vinit Kumar, CSE, GCET</p>
-            <p>Prof. (Dr.) Inderpreet Kaur, CSE, GCET</p>
             <p>Prof. Mayank Dixit, CSE, GCET</p>
+            <p>Prof. Namita Mishra, CSE, GCET</p>
 
             <br/>
 
             <h1> <strong> Finance Committee </strong> </h1>
             <p>Prof. (Dr.) Amrit Agrawal, CSE, GCET</p>
-            <p>Prof. S. Nagaraj, CSE, GCET</p>
+            <p>Prof. Manish Sharma, CSE, GCET</p>
 
             <br/>
 
             <h1> <strong> Hospitality Committee </strong> </h1>
-            <p>Prof. Tanushree, CSE, GCET</p>
             <p>Prof. Renu Mishra, CSE, GCET</p>
             <p>Prof. Arti Ranjan, CSE, GCET</p>
+            <p>Prof. Ritu Dewan, CSE, GCET</p>
             <p>Prof. Anika Bhardwaj, CSE, GCET</p>
-            <p>Prof. Ankita Gupta, CSE (DS), GCET</p>
+            <p>Prof. Nandini Tomar, CSE, GCET</p>
 
             <br/>
 
             <h1> <strong> Transport and Accommodation Committee </strong> </h1>
             <p>Prof. Rajiv Kumar Nath, CSE, GCET</p>
             <p>Prof. Ravikant Nirala, CSE, GCET</p>
-            <p>Prof. Ravindra Kumar, CSE (DS), GCET</p>
+            <p>Prof. Pramit Samant, CSE, GCET</p>
+            <p>Prof. Mohit Chowdhary, CSE, GCET</p>
 
             <br/>
             
@@ -98,10 +105,9 @@ const OrganisingCommittee = () => {
             <br/>
 
             <h1> <strong> Sponsorship/Media Committee </strong> </h1>
-            <p>Prof. (Dr.) Riti Kushwaha, CSE, GCET</p>
             <p>Prof. M. Dinesh Babu, CSE, GCET</p>
-            <p>Prof. R. S. Kohli, CSE, GCET</p>
-            <p>Prof. Nandini Tomar, CSE (AI), GCET</p>
+            <p>Prof. Shikha Singh, CSE, GCET</p>
+            <p>Prof. Ruchika Sharma, CSE, GCET</p>
 
         </div>
 

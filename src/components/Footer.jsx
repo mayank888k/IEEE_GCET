@@ -5,7 +5,7 @@ const Footer = () => {
   return (
     <div className="footer">
     <p className="footer_details">
-        Copyright © 2022 4th IEEE International Conference on Advances in Computing, Communication Control and Networking (ICAC3N–22)
+        Copyright © 2022 4th International Conference on Advances in Computing, Communication Control and Networking (ICAC3N–22)
     </p>
     </div>
   )

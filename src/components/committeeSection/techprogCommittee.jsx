@@ -31,7 +31,6 @@ const TechProgCommittee = () => {
             <p>Prof. Neelendra Badal,KNIT Sultanpur</p>
             <p>Prof. Jawar Singh, IIITDM Jabalpur</p>
             <p>Prof. Buddha Singh, JNU, Delhi</p>
-            <p>Prof. Satyajit Srivastava, GU, Greater Noida</p>
             <p>Prof. J. K Verma, Amity University, Gurugram&nbsp;</p>
             <p>Prof. Ratnesh Litoriya, Jaypee University</p>
             <p>Prof. Manjeet Singh, Dept.of Higher Education, Govt. of Haryana</p>

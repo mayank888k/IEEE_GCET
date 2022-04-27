@@ -18,7 +18,7 @@ const Header = () => {
       <div className="title">
         <NavLink exact to="/">
           <h1>
-            4th IEEE International Conference on Advances in Computing, Communication Control and Networking
+            4th International Conference on Advances in Computing, Communication Control and Networking
           </h1>
           <h1>
             (ICAC3N–22)

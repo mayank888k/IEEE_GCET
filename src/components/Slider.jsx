@@ -1,7 +1,7 @@
 import React from "react";
 import { Carousel } from "react-bootstrap";
 import './slider.css'
-import img1 from './images/img1.png';
+import img1 from './images/img1.jpeg';
 import img2 from './images/img2.jpg';
 import img3 from './images/img3.png';
 import img4 from './images/img4.jpg';

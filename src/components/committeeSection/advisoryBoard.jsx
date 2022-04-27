@@ -16,6 +16,7 @@ const AdvisoryBoard = () => {
             <p>Prof. Vivekanand Mukherjee, ISM, Dhanbad</p>
             <p>Prof. Fushuan Wen, China</p>
             <p>Prof. Malay Kishore Dutta, AKTU</p>
+            <p>Prof. Avadhesh Kumar –PVC,GU</p>
             <p>Prof. Anurag Srivastava, WS University, USA</p>
             <p>Prof. Parmanand, SU, Gr.Noida</p>
             <p>Prof. Jai Govind, AIT, Bangkok</p>
@@ -33,7 +34,6 @@ const AdvisoryBoard = () => {
             <p>Prof. S. S. Bhaudaria, MITS, Gwalior</p>
             <p>Prof. N. P. Padhy, IIT Rorkee</p>
             <p>Prof. Avadhesh Kumar, PVC, GU, Gr. Noida.</p>
-            <p>Prof. Munish Sabharwal, Professor &amp; Dean, SCSE, GU, Greater Noida</p>
             <p>Prof. Sukumar Mishra, IIT Delhi</p>
             <p>Prof. A. N. Tiwari, MMMTU, Gorakhpur</p>
             <p>Prof. Asheesh Singh, MNNIT, Allahabad</p>
@@ -48,6 +48,7 @@ const AdvisoryBoard = () => {
             <p>Prof. Brijesh Singh, GCET, Greater Noida</p>
             <p>Prof. Lakshmanan M,&nbsp;GCET, Greater Noida</p>
             <p>Prof. Mohd Asim Qadri,&nbsp;GCET, Greater Noida</p>
+            <p>Prof. Rajni Saggu, GCET Greater Noida</p>
             <p>Prof. Md. Danish Equbal,&nbsp;GCET, Greater Noida</p>
             <p>Prof. A. Ambikapathy,&nbsp;GCET, Greater Noida</p>
             <p>Prof. Sansar Singh Chauhan, GU,&nbsp;Greater Noida</p>

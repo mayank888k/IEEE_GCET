@@ -77,7 +77,7 @@ const Body = () => {
           </div>
         </div>
 
-        <div className="fb_frame">
+        {/* <div className="fb_frame">
           <div className="follow">
             <h3>Facebook Feed: #4th_IEEE_ICAC3N</h3>
             <hr />
@@ -93,9 +93,9 @@ const Body = () => {
             allowFullScreen={true}
             allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"
           ></iframe>
-        </div>
+        </div> */}
 
-        <div className="twitt_frame">
+        {/* <div className="twitt_frame">
           <div className="follow">
             <h3>Twitter Feeds #4th_IEEE_ICAC3N</h3>
             <hr />
@@ -106,7 +106,7 @@ const Body = () => {
             options={{height: 400}}
             className = "twitt"
             />
-        </div>
+        </div> */}
       </div>
     </div>
   );
