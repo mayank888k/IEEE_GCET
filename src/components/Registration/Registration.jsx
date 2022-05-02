@@ -29,7 +29,7 @@ const Registration = () => {
           <div class="btn_sub">
             <a
               class="anchor"
-              href="/"
+              href="https://forms.gle/8acy23i3UbtwLkFXA"
             >
               Click Here for registration
             </a>
