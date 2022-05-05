@@ -96,7 +96,7 @@ const SubmissionGuid = () => {
           <div class="btn_sub">
             <a
               class="anchor"
-              href="https://icac3n-21.in/wp-content/uploads/2021/04/icac3n-21-ieee-template.docx"
+              href="https://icac3n.in/IEEEFORMAT/PAPER_ID_ICAC3N22.docx"
             >
               Click to Download IEEE Conference Paper Template
             </a>

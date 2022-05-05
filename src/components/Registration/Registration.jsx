@@ -22,6 +22,19 @@ const Registration = () => {
         >
           *Including 18% GST
         </h4>
+
+        <h1>Camera Ready Format</h1>
+        
+        <div class="btn_upper">
+          <div class="btn_sub">
+            <a
+              class="anchor"
+              href="https://icac3n.in/IEEEFORMAT/PAPER_ID_ICAC3N22.docx"
+            >
+              Click Here To Download Docx File
+            </a>
+          </div>
+        </div>
         
         <h1>Registration</h1>
         
@@ -30,6 +43,7 @@ const Registration = () => {
             <a
               class="anchor"
               href="https://forms.gle/8acy23i3UbtwLkFXA"
+              target="_blank"
             >
               Click Here for registration
             </a>
