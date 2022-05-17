@@ -20,16 +20,22 @@
 
 .title h1{
     margin-left: 10px;
-    font-size: 24px;
+    font-size: 23px;
+    font-weight: bold;
 }
 
 .head{
     display: flex;
-    flex-direction: row;
-    justify-content: space-evenly;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 
 .date p{
     color: grey;
-    padding: 10px;
+    /* padding: 10px; */
+}
+
+.recNum p{
+    font-weight: bold;
 }

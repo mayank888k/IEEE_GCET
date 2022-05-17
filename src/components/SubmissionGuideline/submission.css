@@ -32,7 +32,7 @@
     margin-left: 1em !important;
 }
 
-.anchor{
+.anchhor{
     color: white;
     background-color: rgb(15, 80, 77);
     cursor: pointer;
@@ -45,6 +45,28 @@
     text-transform: uppercase;
 }
 
-.anchor:hover{
+.anchhor:hover{
     color: white;
 }
+
+@media only screen and (max-width: 700px) {
+    .sub{
+        width: 100%;
+        padding: 10px;
+    }
+    .form-container, .get-in-touch{
+        padding-left:  0px;
+    }
+
+    .btn_upper{
+        width: 100% !important;
+    }
+
+    .anchhor {
+        text-overflow: clip;
+        border-radius: 10px;
+        padding: 2px;
+        width: max-content;
+
+    }
+  }

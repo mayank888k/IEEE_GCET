@@ -30,3 +30,25 @@
     margin-left: auto;
     margin-right: auto;
 }
+
+@media only screen and (max-width: 700px) {
+    .about{
+        width: 100%;
+        padding: 10px;
+    }
+    .form-container, .get-in-touch{
+        padding-left:  0px;
+    }
+
+    .btn_upper{
+        width: 100% !important;
+    }
+
+    .anchhor {
+        text-overflow: clip;
+        border-radius: 10px;
+        padding: 2px;
+        width: max-content;
+
+    }
+  }

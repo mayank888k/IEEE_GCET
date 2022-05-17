@@ -72,7 +72,7 @@ const SubmissionGuid = () => {
         <div class="btn_upper">
           <div class="btn_sub">
             <a
-              class="anchor"
+              class="anchhor"
               href="https://cmt3.research.microsoft.com/ICAC3N2022"
               target="_blank"
               rel="noreferrer noopener"
@@ -93,14 +93,12 @@ const SubmissionGuid = () => {
         </p>
 
         <div class="btn_upper">
-          <div class="btn_sub">
             <a
-              class="anchor"
+              class="anchhor"
               href="https://icac3n.in/IEEEFORMAT/PAPER_ID_ICAC3N22.docx"
             >
-              Click to Download IEEE Conference Paper Template
+              Click to download IEEE conference Paper
             </a>
-          </div>
         </div>
 
         <div className="heading">

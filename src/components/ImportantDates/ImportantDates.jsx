@@ -11,6 +11,7 @@ const ImportantDates = () => {
         <p>IMPORTANT DATES</p>
         <br />
       </div>
+
       <table>
         <tbody className="table_body">
           <tr className="row1">
@@ -26,7 +27,7 @@ const ImportantDates = () => {
               <strong>Paper Submission Deadline</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 15/05/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 30/06/2022</strong>
             </td>
           </tr>
 
@@ -36,7 +37,7 @@ const ImportantDates = () => {
               <strong>Acceptance Notification</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 15/06/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 31/07/2022</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -44,7 +45,7 @@ const ImportantDates = () => {
               <strong>Registration</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 30/06/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 10/08/2022</strong>
             </td>
           </tr>
 
@@ -53,7 +54,7 @@ const ImportantDates = () => {
               <strong>Camera Ready Paper</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 30/06/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 10/08/2022</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -66,6 +67,7 @@ const ImportantDates = () => {
           </tr>
         </tbody>
       </table>
+
       
       <h4 style={{fontStyle:"italic", color:"grey", fontSize:"17px", margin:"50px 0px"}}>*All Dates are in DD/MM/YYYY Format</h4>
     

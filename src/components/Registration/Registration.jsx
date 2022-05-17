@@ -1,9 +1,28 @@
+import axios from "axios";
 import React from "react";
 import LikeShare from "../LikeShare/LikeShare";
 import "./registration.css";
 import registration_fee from "./registration_fee.webp";
+import pfd from '../images/PAPER_ID_ICAC3N22.pdf'
 
 const Registration = () => {
+  const download = (event) =>{
+      event.preventDefault()
+      axios({
+        url: pfd, //your url
+        method: 'GET',
+        responseType: 'blob', // important
+    }).then((response) => {
+        const url = window.URL.createObjectURL(new Blob([response.data]));
+        const link = document.createElement('a');
+        link.href = url;
+        link.setAttribute('download', 'PAPER_ID_ICAC3N22.pdf'); //or any other extension
+        document.body.appendChild(link);
+        link.click();
+    });
+    // window.open("https://icac3n.in/IEEEFORMAT/PAPER_ID_ICAC3N22.pdf")
+
+  }
   document.title = "Registration | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="registration">
@@ -31,10 +50,23 @@ const Registration = () => {
               class="anchor"
               href="https://icac3n.in/IEEEFORMAT/PAPER_ID_ICAC3N22.docx"
             >
-              Click Here To Download Docx File
+              1 - Click Here To Download DOCX File
             </a>
           </div>
         </div>
+        <div class="btn_upper_reg">
+          <div class="btn_sub">
+            <a
+              class="anchor"
+              href="https://icac3n.in/IEEEFORMAT/PAPER_ID_ICAC3N22.pdf"
+              target= "_blank"
+              title="PAPER_ID_ICAC3N22.pdf"
+            >
+              2 - Click Here To Download PDF File
+            </a>
+          </div>
+        </div>
+        {/* <button onClick={download}>Download</button> */}
         
         <h1>Registration</h1>
         

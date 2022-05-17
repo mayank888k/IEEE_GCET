@@ -16,7 +16,7 @@
     font-weight: bolder;
 }
 
-.registration .btn_upper{
+.registration .btn_upper_reg{
     margin: 55px 1em;
     width: max-content;
 }
@@ -77,3 +77,13 @@
     font-weight: bold;
     
 }
+
+@media only screen and (max-width: 700px) {
+    .registration{
+        width: min-content;
+        padding: 10px;
+    }
+    .form-container, .get-in-touch{
+        padding-left:  0px;
+    }
+  }
