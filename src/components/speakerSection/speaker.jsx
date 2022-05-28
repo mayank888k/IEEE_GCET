@@ -11,6 +11,7 @@ import img8 from './speakerImgs/prof.-dr.-prabhakar-tiwari-mmmut-gorakhpur-secre
 import img9 from './speakerImgs/dr.-malay-kishore-dutta-dean-pg-studies-and-research-aktu-lucknow.jpg';
 import img10 from './speakerImgs/prof.-dr.-neetesh-purohit-indian-institute-of-information-technology-allahabad-iiita-prayagraj-up.jpg';
 import img11 from './speakerImgs/prof.-dr.-n.-badal-hod-cse-department-knit-sultanpur.jpg';
+import img12 from './speakerImgs/j-ramkumar.jpg';
 
 
 const Speakers = () => {
@@ -26,6 +27,15 @@ const Speakers = () => {
                     <strong> Prof. (Dr.) Sri Niwas Singh </strong> 
                     <br/> 
                     Professor (HAG), Department of EE, IIT Kanpur, India / Chairman, India Council, IEEE India.
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img style={{height:"200px", width:"180px"}} src={img12} alt="img12"/>
+                <figcaption> 
+                    <strong> Prof. (Dr.) J Ramkumar </strong> 
+                    <br/> 
+                    Professor, IIT Kanpur India, Ex Chair of IEEE UP
                 </figcaption>
             </figure>
 
