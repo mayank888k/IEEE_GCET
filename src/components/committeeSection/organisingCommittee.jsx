@@ -43,12 +43,12 @@ const OrganisingCommittee = () => {
             <br/>
 
             <h1> <strong> Technical Program Chairs </strong> </h1>
-            <p>Prof. (Dr) S. K. Singh, CSE, GCET</p>
-            <p>Prof. (Dr) Jaya Sinha, CSE, GCET</p>
-            <p>Prof. (Dr) S. K. Singh, HOT-IT, GCET</p>
-            <p>Prof. (Dr) Gagan Tiwari, HOD, MCA, GCET</p>
-            <p>Prof. (Dr) Ritesh Srivastava, CSE, GCET</p>
-            <p>Prof. (Dr) Vinit Kumar, CSE, GCET</p>
+            <p>Prof. (Dr.) S. K. Singh, CSE, GCET</p>
+            <p>Prof. (Dr.) Jaya Sinha, CSE, GCET</p>
+            <p>Prof. (Dr.) S. K. Singh, HOD-IT, GCET</p>
+            <p>Prof. (Dr.) Gagan Tiwari, HOD, MCA, GCET</p>
+            <p>Prof. (Dr.) Ritesh Srivastava, CSE, GCET</p>
+            <p>Prof. (Dr.) Vinit Kumar, CSE, GCET</p>
             
             <br/>
 
@@ -61,9 +61,9 @@ const OrganisingCommittee = () => {
             <br/>
 
             <h1> <strong> Publication Committee </strong> </h1>
-            <p>Prof. (Dr) Inderpreet Kaur, CSE, GCET</p>
-            <p>Prof. (Dr) Shelja Sharma, CSE, GCET</p>
-            <p>Prof. (Dr) Kavita Sharma, CSE, GCET</p>
+            <p>Prof. (Dr.) Inderpreet Kaur, CSE, GCET</p>
+            <p>Prof. (Dr.) Shelja Sharma, CSE, GCET</p>
+            <p>Prof. (Dr.) Kavita Sharma, CSE, GCET</p>
 
             <br/>
 
@@ -83,7 +83,7 @@ const OrganisingCommittee = () => {
             <p>Prof. Renu Mishra, CSE, GCET</p>
             <p>Prof. Arti Ranjan, CSE, GCET</p>
             <p>Prof. Ritu Dewan, CSE, GCET</p>
-            <p>Prof. Anika Bhardwaj, CSE, GCET</p>
+            <p>Prof. Mamta Narwaria, CSE, GCET</p>
             <p>Prof. Nandini Tomar, CSE, GCET</p>
 
             <br/>
@@ -98,9 +98,9 @@ const OrganisingCommittee = () => {
             
             <h1> <strong> Website Committee </strong> </h1>
             <p>Prof. Ajeet Kumar Bhartee, CSE, GCET</p>
+            <p>Mr. Mayank, CSE Student, GCET</p>
             <p>Mr. Ayan Gupta, CSE Student, GCET</p>
             <p>Mr. Harshit Garg, CSE Student, GCET</p>
-            <p>Mr. Mayank, CSE Student, GCET</p>
 
             <br/>
 

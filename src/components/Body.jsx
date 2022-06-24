@@ -79,7 +79,11 @@ const Body = () => {
 
 
         <div className="brochure">
+        <div className="view">
           <a href="https://icac3n.in/IEEEFORMAT/ICAC3N-22Brochure.pdf" target = "_blank">
+            Click to view brochure
+          </a>
+        </div>
           <iframe
             src = "https://icac3n.in/IEEEFORMAT/ICAC3N-22Brochure.pdf"
             width="430"
@@ -90,7 +94,6 @@ const Body = () => {
             allowFullScreen={true}
           >
           </iframe>
-          </a>
         </div>
 
         {/* <div className="fb_frame">
