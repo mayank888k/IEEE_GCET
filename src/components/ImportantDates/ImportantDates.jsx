@@ -37,7 +37,7 @@ const ImportantDates = () => {
               <strong>Acceptance Notification</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 31/09/2022 (within 5 weeks from submission)</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 31/09/2022 <br />&nbsp;&nbsp;&nbsp;&nbsp;(within 5 weeks from submission)</strong>
             </td>
           </tr>
           <tr className="row2">
