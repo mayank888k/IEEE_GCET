@@ -2,7 +2,7 @@ import axios from "axios";
 import React from "react";
 import LikeShare from "../LikeShare/LikeShare";
 import "./registration.css";
-import registration_fee from "./registration_fee.webp";
+import registration_fee from "./registration_fee.jpeg";
 import pfd from '../images/PAPER_ID_ICAC3N22.pdf'
 
 const Registration = () => {

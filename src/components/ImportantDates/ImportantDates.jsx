@@ -27,7 +27,7 @@ const ImportantDates = () => {
               <strong>Paper Submission Deadline</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 30/06/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 31/08/2022</strong>
             </td>
           </tr>
 
@@ -37,7 +37,7 @@ const ImportantDates = () => {
               <strong>Acceptance Notification</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 31/07/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 31/09/2022 (within 5 weeks from submission)</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -45,7 +45,7 @@ const ImportantDates = () => {
               <strong>Registration</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 10/08/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 10/10/2022</strong>
             </td>
           </tr>
 
@@ -54,7 +54,7 @@ const ImportantDates = () => {
               <strong>Camera Ready Paper</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 10/08/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 10/10/2022</strong>
             </td>
           </tr>
           <tr className="row2">
