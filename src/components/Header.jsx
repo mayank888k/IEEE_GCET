@@ -57,7 +57,7 @@ const Header = () => {
         </p>
     </div>
     <div className="recNum">
-      <p >IEEE Conference Record Number <strong style={{color:"#ff7986"}}>#56670</strong></p>
+      <p >IEEE Conference Record Number <strong style={{color:"#ff7986"}}>&nbsp;#56670</strong>&nbsp; & &nbsp;ISBN :<strong style={{color:"#ff7986"}}>&nbsp;978-1-6654-7436-8</strong></p>
     </div>
     </div>
 
