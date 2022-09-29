@@ -36,7 +36,7 @@ const NavbarComponent = () => {
                 <NavDropdown.Item href="aboutCSE"> About CSE Department </NavDropdown.Item>
               </NavDropdown>
 
-              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="/dates">Impotant Dates</NavLink>
+              <NavLink style={{marginLeft:"10px"}} className="nav-link" to="/dates">Important Dates</NavLink>
               <NavLink style={{marginLeft:"10px"}} className="nav-link" to="/guidelines">Submission Guidelines</NavLink>
               
 
