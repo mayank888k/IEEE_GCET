@@ -12,6 +12,7 @@ import img9 from './speakerImgs/dr.-malay-kishore-dutta-dean-pg-studies-and-rese
 import img10 from './speakerImgs/prof.-dr.-neetesh-purohit-indian-institute-of-information-technology-allahabad-iiita-prayagraj-up.jpg';
 import img11 from './speakerImgs/prof.-dr.-n.-badal-hod-cse-department-knit-sultanpur.jpg';
 import img12 from './speakerImgs/j-ramkumar.jpg';
+import img13 from './speakerImgs/DrSubharnaShakya.jpeg';
 
 
 const Speakers = () => {
@@ -26,7 +27,7 @@ const Speakers = () => {
                 <figcaption> 
                     <strong> Prof. (Dr.) Sri Niwas Singh </strong> 
                     <br/> 
-                    Professor (HAG), Department of EE, IIT Kanpur, India / Chairman, India Council, IEEE India.
+                    Director, Atal Bihari Vajpayee- Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior, India / Chairman, India Council, IEEE India.
                 </figcaption>
             </figure>
 
@@ -74,6 +75,15 @@ const Speakers = () => {
                     <strong> Prof. (Dr.) Celestine Iwendi </strong> 
                     <br/> 
                     School of Creative Technologies, University of Bolton, United Kingdom / Board Member IEEE Sweden Section.
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img style={{height:"220px", width:"200px"}} src={img13} alt="img1"/>
+                <figcaption> 
+                    <strong> Prof. (Dr.) Subarna Shakya </strong> 
+                    <br/> 
+                    Professor, Department of Electronics and Computer Engineering, Tribhuvan University, Nepal.
                 </figcaption>
             </figure>
             

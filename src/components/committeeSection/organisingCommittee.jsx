@@ -26,7 +26,7 @@ const OrganisingCommittee = () => {
 
             <h1> <strong> Conference General Chair </strong> </h1>
             <p>Prof. (Dr.) Avadhesh Kumar –PVC, GU</p>
-            <p>Prof. (Dr.) Brijesh Singh , Director, GCET</p>
+            <p>Prof.(Dr.) MOHD. ASIM QADRI, Director, GCET</p>
             <p>Prof. (Dr.) S. K. Singh, IIIT, Allahabad</p>
 
             <br/>
