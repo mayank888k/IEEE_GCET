@@ -110,7 +110,22 @@ const SubmissionGuid = () => {
           professional misconduct. Papers will be screened for plagiarism and
           when identified the paper will be rejected.
         </p>
+
+        <div className="heading">
+          <p style={{fontWeight: "bold", fontSize: "large"}}>Important Message </p>
+        </div>
+
+        <p class="has-text-align-justify">
+          1. ICAC3N conference organizers have zero tolerance against plagiarism and paper formatting as per IEEE template. If author found violating registration guidelines and instructions provided from time to time at any stage during publication the registration of paper will be cancelled.
+          <br /> <br />
+          2. Transfer of e-copyright and presenting paper in conference is mandatory, without this paper will not be published on IEEE explore.
+          <br /> <br />
+          3. Corresponding author (as per CMT) keep checking their e-mail regularly (including spam) in this regard and for supplying any other desired information on time.
+          <br /> <br />
+          4. Registration fee once paid is non refundable.
+        </p>
       </div>
+
 
       <LikeShare />
     </div>

@@ -7,6 +7,7 @@ import newgif from "./images/new_red.gif"
 import { toast, ToastContainer } from "react-toastify";
 import "react-toastify/dist/ReactToastify.css";
 import { dark } from "@mui/material/styles/createPalette";
+import PopupComponent from "./PopupSection/PopupComponent";
 
 const Header = () => {
   const notify = () => toast.error('✨  Conference will be held in blended mode (online and offline)', {
@@ -49,6 +50,7 @@ const Header = () => {
             <strong>
             Conference Will Be Held In Blended Mode (Online and Offline Both)
             </strong>
+
         </p>
     </div>
       <div className="date">
@@ -75,6 +77,9 @@ const Header = () => {
       style={{width:"600px"}}
       />
 
+      <div className="popup_msg">
+        <PopupComponent />
+      </div>
     </div>
   );
 };

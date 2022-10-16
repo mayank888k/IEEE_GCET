@@ -3,6 +3,7 @@ import { Container, Nav, Navbar, NavDropdown } from "react-bootstrap";
 import { NavLink } from "react-router-dom";
 import './navbar.css'
 import newgif from "./images/new_red.gif"
+import PopupComponent from "./PopupSection/PopupComponent";
 
 
 const NavbarComponent = () => {
@@ -52,7 +53,8 @@ const NavbarComponent = () => {
 
               <NavLink style={{marginLeft:"10px"}} className="nav-link" to="registration">Register</NavLink>
               <NavLink style={{marginLeft:"10px"}} className="nav-link" to="contactus">Contact Us</NavLink>
-
+              
+              {/* <PopupComponent /> */}
             </Nav>
           </Navbar.Collapse>
         </Container>
