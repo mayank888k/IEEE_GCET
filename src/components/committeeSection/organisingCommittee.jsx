@@ -19,7 +19,7 @@ const OrganisingCommittee = () => {
 
             <h1> <strong> Patrons </strong> </h1>
             <p>Prof. (Dr.) Pradeep Kumar Mishra, VC, AKTU</p>
-            <p>Prof. (Dr.) S.N. Singh, IIT Kanpur</p>
+            <p>Prof. (Dr.) S.N. Singh, ABV-IIITM, Gwalior</p>
             <p>Dr. Preeti Bajaj, VC, Galgotias University</p>
 
             <br/>
@@ -46,8 +46,6 @@ const OrganisingCommittee = () => {
             <p>Prof. (Dr.) S. K. Singh, CSE, GCET</p>
             <p>Prof. (Dr.) Jaya Sinha, CSE, GCET</p>
             <p>Prof. (Dr.) S. K. Singh, HOD-IT, GCET</p>
-            <p>Prof. (Dr.) Gagan Tiwari, HOD, MCA, GCET</p>
-            <p>Prof. (Dr.) Ritesh Srivastava, CSE, GCET</p>
             <p>Prof. (Dr.) Vinit Kumar, CSE, GCET</p>
             
             <br/>
@@ -55,7 +53,6 @@ const OrganisingCommittee = () => {
             <h1> <strong> Organizing Committee </strong> </h1>
             <p>Prof. M. Chandraprabha, CSE, GCET</p>
             <p>Prof. Rishabh  Jain, CSE, GCET</p>
-            <p>Prof. T. Akilan, CSE, GCET</p>
             <p>Prof. Ravindra  Kumar, CSE, GCET</p>
 
             <br/>
@@ -80,11 +77,8 @@ const OrganisingCommittee = () => {
             <br/>
 
             <h1> <strong> Hospitality Committee </strong> </h1>
-            <p>Prof. Renu Mishra, CSE, GCET</p>
-            <p>Prof. Arti Ranjan, CSE, GCET</p>
             <p>Prof. Ritu Dewan, CSE, GCET</p>
             <p>Prof. Mamta Narwaria, CSE, GCET</p>
-            <p>Prof. Nandini Tomar, CSE, GCET</p>
 
             <br/>
 
