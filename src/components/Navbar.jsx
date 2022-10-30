@@ -7,6 +7,7 @@ import PopupComponent from "./PopupSection/PopupComponent";
 
 
 const NavbarComponent = () => {
+  
   return (
       <Navbar className="navbar" bg="white" expand="lg">
         <Container>
@@ -53,8 +54,11 @@ const NavbarComponent = () => {
 
               <NavLink style={{marginLeft:"10px"}} className="nav-link" to="registration">Register</NavLink>
               <NavLink style={{marginLeft:"10px"}} className="nav-link" to="contactus">Contact Us</NavLink>
+
+              <div style={{marginLeft:"10px"}} className="nav-link">
+                <PopupComponent />
+              </div>
               
-              {/* <PopupComponent /> */}
             </Nav>
           </Navbar.Collapse>
         </Container>

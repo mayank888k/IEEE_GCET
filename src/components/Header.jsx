@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import { NavLink } from "react-router-dom";
 import "./header.css";
 import logo from "./images/logo.png"
@@ -10,21 +10,11 @@ import { dark } from "@mui/material/styles/createPalette";
 import PopupComponent from "./PopupSection/PopupComponent";
 
 const Header = () => {
-  const notify = () => toast.error('✨  Conference will be held in blended mode (online and offline)', {
-    position: "top-right",
-    autoClose: 5000,
-    hideProgressBar: false,
-    closeOnClick: true,
-    pauseOnHover: true,
-    draggable: true,
-    progress: undefined,
-    theme:"colored"
-    });
-    
-    // useEffect(() => {
-    //   notify()
-    // })
-    
+
+  useEffect(() => {
+    document.getElementById('pop_btn').click();
+  }, [])
+  
 
   return (
     
@@ -64,7 +54,46 @@ const Header = () => {
     </div>
 
     <NavbarComponent />
-    <ToastContainer
+    
+    </div>
+  );
+};
+
+export default Header;
+
+
+
+
+
+
+
+
+
+
+
+
+
+// const notify = () => toast.error('✨  Conference will be held in blended mode (online and offline)', {
+//   position: "top-right",
+//   autoClose: 5000,
+//   hideProgressBar: false,
+//   closeOnClick: true,
+//   pauseOnHover: true,
+//   draggable: true,
+//   progress: undefined,
+//   theme:"colored"
+//   });
+  
+  // useEffect(() => {
+  //   notify()
+  // })
+
+
+
+
+
+
+{/* <ToastContainer
       position="top-right"
       autoClose={5000}
       hideProgressBar={false}
@@ -75,13 +104,4 @@ const Header = () => {
       draggable
       pauseOnHover
       style={{width:"600px"}}
-      />
-
-      <div className="popup_msg">
-        <PopupComponent />
-      </div>
-    </div>
-  );
-};
-
-export default Header;
+      /> */}

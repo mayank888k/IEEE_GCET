@@ -4,9 +4,12 @@
     border-radius: 30px;
     margin: 10px;
     box-shadow: 0px 5px 20px -16px rgba(0, 0, 0, 0.75);
+    /* font-size: small !important; */
+    font-size: 14px;
 }
 
 .nav_coll{
+    /* display: block !important; */
     justify-content: space-evenly;
 }
 
@@ -34,4 +37,19 @@
 .navbar-light .navbar-nav .nav-link.active{
     color: rgb(50, 197, 148) ;
     border-bottom: 3px solid rgb(50, 197, 148);
-}   
+}
+
+.navbar-nav {
+    justify-content: space-evenly !important;
+}
+
+@media screen and (min-width: 992px)
+{
+    .navbar-expand-lg .navbar-collapse {
+        display: block !important;
+    } 
+
+    #basic-navbar-nav {
+        display: block !important;
+    }
+}

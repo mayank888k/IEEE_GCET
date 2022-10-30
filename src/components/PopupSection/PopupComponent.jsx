@@ -1,12 +1,28 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 import Popup from 'reactjs-popup';
 import 'reactjs-popup/dist/index.css';
 import './popupComponent.css'
 import NotificationsActiveIcon from '@mui/icons-material/NotificationsActive';
-import bell from './bell.png'
+import bell from './bell.png';
+import new_icon from './new_red.gif';
 
-export default () => (
-    <Popup trigger={<button className="popup_btn"> <img src={bell} style = {{height:"25px", width:"35px"}} />  </button>} position="top left"
+export default () => {
+
+  return (
+  
+    <Popup trigger=
+    {<button className="popup_btn" id="pop_btn">
+
+      <div className="imp_msg_header" style={{display:"flex"}}>
+        <div className="img_msg">
+          Message
+        </div>
+        
+        <img src={new_icon} style={{marginBottom:"10px"}} />
+      </div>
+
+    </button>}
+    position="top left"
     modal
     >
     
@@ -32,4 +48,5 @@ export default () => (
       </div>
     )}
   </Popup>
-);
+  );
+};

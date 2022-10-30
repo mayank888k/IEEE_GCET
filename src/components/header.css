@@ -1,7 +1,7 @@
 .header{
     margin: 50px;
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
 }
 .logo{
     margin: 10px;
@@ -75,12 +75,4 @@
   to {
     background-position: 200% center;
   }
-}
-
-.popup_msg
-{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    margin-top: 20px;
 }
