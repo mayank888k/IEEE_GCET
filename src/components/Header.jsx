@@ -42,7 +42,18 @@ const Header = () => {
             </strong>
 
         </p>
-    </div>
+      </div>
+
+      <div className="date" >
+        <p className="animate-charcter2">
+            <strong>
+            Paper Submission and Registration is Closed
+            <img style={{marginBottom:"20px"}} src={newgif} alt="" />
+            </strong>
+
+        </p>
+      </div>
+
       <div className="date">
         <p>
             <strong>16th - 17th December, 2022</strong>
