@@ -13,6 +13,9 @@ import img10 from './speakerImgs/prof.-dr.-neetesh-purohit-indian-institute-of-i
 import img11 from './speakerImgs/prof.-dr.-n.-badal-hod-cse-department-knit-sultanpur.jpg';
 import img12 from './speakerImgs/j-ramkumar.jpg';
 import img13 from './speakerImgs/DrSubharnaShakya.jpeg';
+import img14 from './speakerImgs/ahmed.jpg';
+import img15 from './speakerImgs/kashif.jpg';
+import img16 from './speakerImgs/anaClark.jpg';
 
 
 const Speakers = () => {
@@ -46,6 +49,37 @@ const Speakers = () => {
                     <strong> Prof. (Dr.) Rajiv Saxena </strong> 
                     <br/> 
                     Vice Chancellor, Jaypee University, Anoopshahr.
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img style={{height:"200px", width:"180px"}} src={img14} alt="img1"/>
+                <figcaption> 
+                    <strong> Dr. Ahmed A. Elngar </strong> 
+                    <br/> 
+                    
+                    Associate Professor, Faculty of CS and AI, Beni-Suef University, 
+                    Beni-Suef City, 62511, Egypt
+
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img style={{height:"200px", width:"180px"}} src={img15} alt="img1"/>
+                <figcaption> 
+                    <strong> Dr. Kashif Nisar, SMIEEE </strong> 
+                    <br/> 
+                    Victorian Institute of Technology,
+                    14 Adam Street, Hindmarsh, Adelaide, South Australia, 5007
+                </figcaption>
+            </figure>
+
+            <figure>
+                <img style={{height:"200px", width:"180px"}} src={img16} alt="img1"/>
+                <figcaption> 
+                    <strong> Dr. Ana Clarke(PhD) </strong> 
+                    <br/> 
+                    Partner Director – Data & AI , Artificial Intelligence Services Australia.
                 </figcaption>
             </figure>
             
