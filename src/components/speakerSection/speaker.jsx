@@ -43,24 +43,11 @@ const Speakers = () => {
             <div className="outer_box">
                 <div className="inner_box">
                     <figure>
-                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img12} alt="img12"/>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img6} alt="img6"/>
                         <figcaption> 
-                            <strong> Prof. (Dr.) J Ramkumar </strong> 
+                            <strong> Prof. (Dr.) Satish K. Singh </strong> 
                             <br/> 
-                            Professor, IIT Kanpur India, Ex Chair of IEEE UP
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-        
-            <div className="outer_box">
-                <div className="inner_box">
-                    <figure>
-                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img2} alt="img2"/>
-                        <figcaption> 
-                            <strong> Prof. (Dr.) Rajiv Saxena </strong> 
-                            <br/> 
-                            Vice Chancellor, Jaypee University, Anoopshahr.
+                            IIIT Allahabad / Section Chair, IEEE UP Section.
                         </figcaption>
                     </figure>
                 </div>
@@ -80,20 +67,6 @@ const Speakers = () => {
                 </div>
             </div>
 
-            <div className="outer_box">
-                <div className="inner_box">
-                    <figure>
-                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img17} alt="img17"/>
-                        <figcaption> 
-                            <strong>Prof. Nada Ratković, Croatia </strong> 
-                            <br/> 
-                            Assistant Professor, Department of Quantitative Methods on Faculty of Economics, 
-                            Business and Tourism, University Split.
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-        
             <div className="outer_box">
                 <div className="inner_box">
                     <figure>
@@ -120,35 +93,21 @@ const Speakers = () => {
                     </figure>
                 </div>
             </div>
-        
+
             <div className="outer_box">
                 <div className="inner_box">
                     <figure>
-                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img3} alt="img3"/>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img17} alt="img17"/>
                         <figcaption> 
-                            <strong> Prof. (Dr.) Deepak Garg </strong> 
+                            <strong>Prof. Nada Ratković, Croatia </strong> 
                             <br/> 
-                            Director leadingindia.ai and Head
-                            CSE, Bennett University and Director, 
-                            NVIDIA-Bennett Centre of Research on AI.
+                            Assistant Professor, Department of Quantitative Methods on Faculty of Economics, 
+                            Business and Tourism, University Split.
                         </figcaption>
                     </figure>
                 </div>
             </div>
-        
-            <div className="outer_box">
-                <div className="inner_box">
-                    <figure>
-                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img4} alt="img4"/>
-                        <figcaption> 
-                            <strong> Prof. (Dr.) Siddhaling Urolagin </strong> 
-                            <br/> 
-                            Department of Computer Science, Birla Institute of Technology & Science, Pilani, Dubai International Academic City.
-                        </figcaption>
-                    </figure>
-                </div>
-            </div>
-        
+
             <div className="outer_box">
                 <div className="inner_box">
                     <figure>
@@ -174,15 +133,30 @@ const Speakers = () => {
                     </figure>
                 </div>
             </div>
+
+            <div className="outer_box">
+                <div className="inner_box">
+                    <figure>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img4} alt="img4"/>
+                        <figcaption> 
+                            <strong> Prof. (Dr.) Siddhaling Urolagin </strong> 
+                            <br/> 
+                            Department of Computer Science, Birla Institute of Technology & Science, Pilani, Dubai International Academic City.
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
         
             <div className="outer_box">
                 <div className="inner_box">
                     <figure>
-                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img6} alt="img6"/>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img3} alt="img3"/>
                         <figcaption> 
-                            <strong> Prof. (Dr.) Satish K. Singh </strong> 
+                            <strong> Prof. (Dr.) Deepak Garg </strong> 
                             <br/> 
-                            IIIT Allahabad / Section Chair, IEEE UP Section.
+                            Director leadingindia.ai and Head
+                            CSE, Bennett University and Director, 
+                            NVIDIA-Bennett Centre of Research on AI.
                         </figcaption>
                     </figure>
                 </div>
@@ -248,6 +222,32 @@ const Speakers = () => {
                             <strong> Prof. (Dr.) N. Badal </strong> 
                             <br/> 
                             Director, REC, Bijnor (U.P.), India.
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+
+            <div className="outer_box">
+                <div className="inner_box">
+                    <figure>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img12} alt="img12"/>
+                        <figcaption> 
+                            <strong> Prof. (Dr.) J Ramkumar </strong> 
+                            <br/> 
+                            Professor, IIT Kanpur India, Ex Chair of IEEE UP
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        
+            <div className="outer_box">
+                <div className="inner_box">
+                    <figure>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img2} alt="img2"/>
+                        <figcaption> 
+                            <strong> Prof. (Dr.) Rajiv Saxena </strong> 
+                            <br/> 
+                            Vice Chancellor, Jaypee University, Anoopshahr.
                         </figcaption>
                     </figure>
                 </div>
