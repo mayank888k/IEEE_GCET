@@ -17,6 +17,7 @@ import img14 from './speakerImgs/ahmed.jpg';
 import img15 from './speakerImgs/kashif.jpg';
 import img16 from './speakerImgs/anaClark.jpg';
 import img17 from './speakerImgs/Nada.jpg';
+import img18 from './speakerImgs/P K Mishra.jpg';
 
 
 const Speakers = () => {
@@ -27,6 +28,19 @@ const Speakers = () => {
 
         <div className="top_box">
             
+            <div className="outer_box">
+                <div className="inner_box">
+                    <figure>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img18} alt="img18"/>
+                        <figcaption> 
+                            <strong> Prof (Dr.) Pradeep Kumar Mishra </strong> 
+                            <br/> 
+                            Vice Chancellor,  Dr APJ Abdul Kalam Technical University, Lucknow, UP.
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        
             <div className="outer_box">
                 <div className="inner_box">
                     <figure>

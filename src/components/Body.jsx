@@ -96,6 +96,24 @@ const Body = () => {
           </iframe>
         </div>
 
+        <div className="brochure">
+        <div className="view">
+          <a href="https://icac3n.in/IEEEFORMAT/Speakerslist.pdf" target = "_blank">
+            Click to view speakers list
+          </a>
+        </div>
+          <iframe
+            src = "https://icac3n.in/IEEEFORMAT/Speakerslist.pdf"
+            width="430"
+            height="700"
+            style={{ border: "none", overflow: "hidden", padding: "20px 40px" }}
+            scrolling="no"
+            frameBorder="0"
+            allowFullScreen={true}
+          >
+          </iframe>
+        </div>
+
         {/* <div className="fb_frame">
           <div className="follow">
             <h3>Facebook Feed: #4th_IEEE_ICAC3N</h3>
