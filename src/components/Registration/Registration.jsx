@@ -4,6 +4,7 @@ import LikeShare from "../LikeShare/LikeShare";
 import "./registration.css";
 import registration_fee from "./registration_fee.jpeg";
 import pfd from '../images/PAPER_ID_ICAC3N22.pdf'
+import newgif from './new-icon-gif-2.jpg' 
 
 const Registration = () => {
   const download = (event) =>{
@@ -66,6 +67,23 @@ const Registration = () => {
             </a>
           </div>
         </div>
+
+        
+        <h1>Sample PPT Format</h1>
+        
+        
+        <div class="btn_upper">
+          <div class="btn_sub">
+            <a
+              class="anchor"
+              href="https://icac3n.in/IEEEFORMAT/SamplePPTICAC3N-22.pptx"
+            >
+              Click Here To Download PPTX File
+            </a>
+            <img style={{width:"35px", marginBottom:"55px"}} src={newgif} alt="" />
+          </div>
+        </div>
+        
         {/* <button onClick={download}>Download</button> */}
         
         <h1>Registration</h1>
