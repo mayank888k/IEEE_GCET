@@ -18,6 +18,7 @@ import img15 from './speakerImgs/kashif.jpg';
 import img16 from './speakerImgs/anaClark.jpg';
 import img17 from './speakerImgs/Nada.jpg';
 import img18 from './speakerImgs/P K Mishra.jpg';
+import img19 from './speakerImgs/PNAGABHUSHAN.jpg';
 
 
 const Speakers = () => {
@@ -49,6 +50,19 @@ const Speakers = () => {
                             <strong> Prof. (Dr.) Sri Niwas Singh </strong> 
                             <br/> 
                             Director, Atal Bihari Vajpayee- Indian Institute of Information Technology and Management (ABV-IIITM), Gwalior, India / Chairman, India Council, IEEE India.
+                        </figcaption>
+                    </figure>
+                </div>
+            </div>
+        
+            <div className="outer_box">
+                <div className="inner_box">
+                    <figure>
+                        <img style={{height:"200px", width:"180px", marginBottom:"15px"}} src={img19} alt="img19"/>
+                        <figcaption> 
+                            <strong> Prof. (Dr.) P. Nagabhushan </strong> 
+                            <br/> 
+                            Vice-Chancellor, Vignan's Foundation for Science, Technology & Research, Andhra Pradesh
                         </figcaption>
                     </figure>
                 </div>

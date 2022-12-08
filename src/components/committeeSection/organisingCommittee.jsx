@@ -19,7 +19,10 @@ const OrganisingCommittee = () => {
 
             <h1> <strong> Patrons </strong> </h1>
             <p>Prof. (Dr.) Pradeep Kumar Mishra, VC, AKTU</p>
-            <p>Prof. (Dr.) S.N. Singh, ABV-IIITM, Gwalior</p>
+            <div className="common">
+              <p>Prof. (Dr.) S.N. Singh, ABV-IIITM, Gwalior</p>
+              <p>Prof. (Dr.) P. Nagabhushan, VC, VFSTR, AP</p>
+            </div>
 
             <br/>
 
