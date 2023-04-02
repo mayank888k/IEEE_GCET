@@ -3,7 +3,7 @@ import LikeShare from "../LikeShare/LikeShare";
 import "./committee.css"
 
 const OrganisingCommittee = () => {
-  document.title = "Organising Committee | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
+  document.title = "Organising Committee | ICAC3N - 5th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="committee">
     <div className="heading">

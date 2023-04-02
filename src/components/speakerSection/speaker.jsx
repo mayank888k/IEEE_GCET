@@ -22,7 +22,7 @@ import img19 from './speakerImgs/PNAGABHUSHAN.jpg';
 
 
 const Speakers = () => {
-    document.title = "Speakers | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
+    document.title = "Speakers | ICAC3N - 5th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="speaker">
         <h1 style={{textAlign:"center"}} className="heading">Speakers</h1>

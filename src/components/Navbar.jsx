@@ -19,8 +19,11 @@ const NavbarComponent = () => {
             <Nav>
               <NavDropdown style={{marginLeft:"-10px",fontWeight:"bolder"}} title="ICAC3N" id="basic-nav-dropdown">
                   <NavDropdown.Item href="/">
-                    ICAC3N-22
+                    ICAC3N-23
                     <img style={{marginBottom:"20px"}} src={newgif} alt="" />
+                  </NavDropdown.Item>
+                  <NavDropdown.Item href="ICAC3N22">
+                    ICAC3N-22
                   </NavDropdown.Item>
                   <NavDropdown.Item href="ICAC3N21">
                     ICAC3N-21

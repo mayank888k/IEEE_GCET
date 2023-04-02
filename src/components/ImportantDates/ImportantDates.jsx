@@ -4,7 +4,7 @@ import "./impdates.css";
 import LikeShare from "../LikeShare/LikeShare";
 
 const ImportantDates = () => {
-  document.title = "Important Dates | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
+  document.title = "Important Dates | ICAC3N - 5th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="ipdt">
     <div className="heading">
@@ -19,7 +19,7 @@ const ImportantDates = () => {
               <strong>Paper Submission Starts</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 28/03/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 01/05/2023</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -27,7 +27,7 @@ const ImportantDates = () => {
               <strong>Paper Submission Deadline</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 31/08/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 15/08/2023</strong>
             </td>
           </tr>
 
@@ -37,7 +37,7 @@ const ImportantDates = () => {
               <strong>Acceptance Notification</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 30/09/2022 <br />&nbsp;&nbsp;&nbsp;&nbsp;(within 5 weeks from submission)</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 15/09/2023 <br />&nbsp;&nbsp;&nbsp;&nbsp;(within 5 weeks from submission)</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -45,7 +45,7 @@ const ImportantDates = () => {
               <strong>Registration</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 10/10/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 15/10/2023</strong>
             </td>
           </tr>
 
@@ -54,7 +54,7 @@ const ImportantDates = () => {
               <strong>Camera Ready Paper</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp; 10/10/2022</strong>
+              <strong>:&nbsp;&nbsp;&nbsp; 15/10/2023</strong>
             </td>
           </tr>
           <tr className="row2">
@@ -62,7 +62,7 @@ const ImportantDates = () => {
               <strong>Conference Date:</strong>
             </td>
             <td className="data">
-              <strong>:&nbsp;&nbsp;&nbsp;16th – 17th December, 2022 </strong>
+              <strong>:&nbsp;&nbsp;&nbsp;15th – 16th December, 2023 </strong>
             </td>
           </tr>
         </tbody>

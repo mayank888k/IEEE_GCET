@@ -3,7 +3,7 @@ import Gallery from "./Gallery";
 import "./home.css";
 
 const Home = () => {
-  document.title = "ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
+  document.title = "ICAC3N - 5th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="home">
       <div className="heading">

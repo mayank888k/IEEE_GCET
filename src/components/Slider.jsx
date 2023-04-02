@@ -16,7 +16,7 @@ const Slider = () => {
         <Carousel.Item>
           <img
             className="d-block w-100"
-            src={img1}
+            src="https://icac3n.in/ICAC3N_2023/Header_ICAC3n-2023.jpeg"
             alt="First slide"
           />
         </Carousel.Item>

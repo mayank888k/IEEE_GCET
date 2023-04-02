@@ -24,7 +24,7 @@ const Registration = () => {
     // window.open("https://icac3n.in/IEEEFORMAT/PAPER_ID_ICAC3N22.pdf")
 
   }
-  document.title = "Registration | ICAC3N - 4th IEEE International Conference on Advances in Computing, Communication Control and Networking";
+  document.title = "Registration | ICAC3N - 5th IEEE International Conference on Advances in Computing, Communication Control and Networking";
   return (
     <div className="registration">
       <div className="topsection">

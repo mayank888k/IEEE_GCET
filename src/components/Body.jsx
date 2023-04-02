@@ -20,6 +20,7 @@ import ContactUs from "./contactUsSection/contactUs";
 import Icac3n21 from "./PreviousConferences/Icac3n21.jsx";
 import Icac3n20 from "./PreviousConferences/Icac3n20";
 import Icac3n18 from "./PreviousConferences/Icac3n18";
+import Icac3n22 from "./PreviousConferences/icac3n22";
 
 const Body = () => {
   return (
@@ -45,6 +46,7 @@ const Body = () => {
 
         <Route path ="/contactus" element={<ContactUs />} />
 
+        <Route path ="/ICAC3N22" element={<Icac3n22 />} />
         <Route path ="/ICAC3N21" element={<Icac3n21 />} />
         <Route path ="/ICAC3N20" element={<Icac3n20 />} />
         <Route path ="/ICAC3N18" element={<Icac3n18 />} />
@@ -104,6 +106,60 @@ const Body = () => {
         </div>
           <iframe
             src = "https://icac3n.in/IEEEFORMAT/Speakerslist.pdf"
+            width="430"
+            height="700"
+            style={{ border: "none", overflow: "hidden", padding: "20px 40px" }}
+            scrolling="no"
+            frameBorder="0"
+            allowFullScreen={true}
+          >
+          </iframe>
+        </div>
+
+        <div className="brochure">
+        <div className="view">
+          <a href="https://icac3n.in/IEEEFORMAT/Schedule.pdf" target = "_blank">
+            Click to view Programme Schedule 
+          </a>
+        </div>
+          <iframe
+            src = "https://icac3n.in/IEEEFORMAT/Schedule.pdf"
+            width="430"
+            height="700"
+            style={{ border: "none", overflow: "hidden", padding: "20px 40px" }}
+            scrolling="no"
+            frameBorder="0"
+            allowFullScreen={true}
+          >
+          </iframe>
+        </div>
+
+        <div className="brochure">
+        <div className="view">
+          <a href="https://icac3n.in/IEEEFORMAT/ScheduleLink.pdf" target = "_blank">
+            Click to view Schedule Links
+          </a>
+        </div>
+          <iframe
+            src = "https://icac3n.in/IEEEFORMAT/ScheduleLink.pdf"
+            width="430"
+            height="700"
+            style={{ border: "none", overflow: "hidden", padding: "20px 40px" }}
+            scrolling="no"
+            frameBorder="0"
+            allowFullScreen={true}
+          >
+          </iframe>
+        </div>
+
+        <div className="brochure">
+        <div className="view">
+          <a href="https://icac3n.in/IEEEFORMAT/TechnicalSessionDetailsZoomLink.pdf" target = "_blank">
+            Click to view Technical Session Details
+          </a>
+        </div>
+          <iframe
+            src = "https://icac3n.in/IEEEFORMAT/TechnicalSessionDetailsZoomLink.pdf"
             width="430"
             height="700"
             style={{ border: "none", overflow: "hidden", padding: "20px 40px" }}
