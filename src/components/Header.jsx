@@ -49,7 +49,7 @@ const Header = () => {
       <div className='line'>
         <h2 className='pop-outin'>
           <a className = 'pop_a' href="https://icac3n.in/ICAC3N_2023/ICAC3N 2023_FPage.pdf" target="_blank">
-            Programme Schedule || 5th IEEE ICAC3N-23 || 15th & 16th December 2023
+            5th IEEE ICAC3N-23 || 15th & 16th December 2023
             <img style={{marginBottom:"20px"}} src={newgif} alt="" />
           </a>
         </h2>
