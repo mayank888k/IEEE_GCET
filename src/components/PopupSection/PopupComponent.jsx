@@ -31,7 +31,9 @@ export default () => {
 
           <div className="content_popup">
             <p class="has-text-align-justify">
-              1. 4th IEEE ICAC3N-22 Proceeding is available Online now on
+              1. 5th IEEE ICAC3N-23 paper submission link is active till July 31, 2023.
+              <br /> <br />
+              2. 4th IEEE ICAC3N-22 Proceeding is available Online now on
               IEEE Xplore💫 
               &nbsp;&nbsp;
               <span>
